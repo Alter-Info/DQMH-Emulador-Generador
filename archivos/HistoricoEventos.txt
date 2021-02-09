@@ -92,3 +92,46 @@ Falla U2 Activada	17/12/2020	8:53:45 a. m.
 Falla U3 Activada	17/12/2020	8:53:45 a. m.
 Falla U3 Desactivada	17/12/2020	8:53:47 a. m.
 Falla U2 Desactivada	17/12/2020	8:53:48 a. m.
+Generador Encendido	9/2/2021	11:19:17 a. m.
+Generador Apagado	9/2/2021	11:19:18 a. m.
+Línea de Carga Conectada	9/2/2021	11:27:50 a. m.
+Línea de Carga Desconectada	9/2/2021	11:27:51 a. m.
+Línea de Carga Conectada	9/2/2021	11:27:52 a. m.
+Línea de Carga Desconectada	9/2/2021	11:27:53 a. m.
+Línea de Carga Conectada	9/2/2021	11:27:53 a. m.
+Línea de Carga Desconectada	9/2/2021	11:27:54 a. m.
+Línea de Carga Conectada	9/2/2021	11:27:54 a. m.
+Línea de Carga Desconectada	9/2/2021	11:27:55 a. m.
+Falla T001 Activada	9/2/2021	12:53:09 p. m.
+Falla T001 Desactivada	9/2/2021	12:53:10 p. m.
+Falla T002 Activada	9/2/2021	12:53:10 p. m.
+Falla T002 Desactivada	9/2/2021	12:53:11 p. m.
+Falla U1 Activada	9/2/2021	12:53:15 p. m.
+Falla U1 Desactivada	9/2/2021	12:53:15 p. m.
+Generador Encendido	9/2/2021	2:06:17 p. m.
+Generador Apagado	9/2/2021	2:06:19 p. m.
+Generador Encendido	9/2/2021	2:19:24 p. m.
+Generador Apagado	9/2/2021	2:23:54 p. m.
+Generador Encendido	9/2/2021	2:46:53 p. m.
+Generador Apagado	9/2/2021	2:50:31 p. m.
+Generador Encendido	9/2/2021	2:50:34 p. m.
+Generador Apagado	9/2/2021	2:50:34 p. m.
+Generador Encendido	9/2/2021	3:20:11 p. m.
+Generador Apagado	9/2/2021	3:20:11 p. m.
+Generador Encendido	9/2/2021	3:20:12 p. m.
+Generador Apagado	9/2/2021	3:20:12 p. m.
+Generador Encendido	9/2/2021	3:20:14 p. m.
+Generador Apagado	9/2/2021	3:20:15 p. m.
+Generador Encendido	9/2/2021	3:20:16 p. m.
+Generador Apagado	9/2/2021	3:20:16 p. m.
+Generador Encendido	9/2/2021	3:20:16 p. m.
+Generador Apagado	9/2/2021	3:20:17 p. m.
+Generador Encendido	9/2/2021	3:20:17 p. m.
+Generador Apagado	9/2/2021	3:20:17 p. m.
+Generador Encendido	9/2/2021	3:20:17 p. m.
+Generador Apagado	9/2/2021	3:20:18 p. m.
+Generador Encendido	9/2/2021	3:20:18 p. m.
+Generador Apagado	9/2/2021	3:20:18 p. m.
+Generador Encendido	9/2/2021	3:20:18 p. m.
+Generador Apagado	9/2/2021	3:20:18 p. m.
+Generador Encendido	9/2/2021	3:20:18 p. m.
