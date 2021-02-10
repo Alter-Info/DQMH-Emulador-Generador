@@ -135,3 +135,5 @@ Generador Apagado	9/2/2021	3:20:18 p. m.
 Generador Encendido	9/2/2021	3:20:18 p. m.
 Generador Apagado	9/2/2021	3:20:18 p. m.
 Generador Encendido	9/2/2021	3:20:18 p. m.
+Generador Encendido	9/2/2021	3:28:41 p. m.
+Generador Apagado	9/2/2021	3:28:42 p. m.
