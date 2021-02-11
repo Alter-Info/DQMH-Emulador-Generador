@@ -137,3 +137,29 @@ Generador Apagado	9/2/2021	3:20:18 p. m.
 Generador Encendido	9/2/2021	3:20:18 p. m.
 Generador Encendido	9/2/2021	3:28:41 p. m.
 Generador Apagado	9/2/2021	3:28:42 p. m.
+Generador Encendido	11/2/2021	9:38:34 a. m.
+Generador Apagado	11/2/2021	9:38:35 a. m.
+Generador Encendido	11/2/2021	9:38:37 a. m.
+Generador Apagado	11/2/2021	9:38:37 a. m.
+Generador Encendido	11/2/2021	9:38:39 a. m.
+Generador Apagado	11/2/2021	9:38:40 a. m.
+Generador Encendido	11/2/2021	9:38:42 a. m.
+Generador Apagado	11/2/2021	9:38:43 a. m.
+Generador Encendido	11/2/2021	9:38:44 a. m.
+Generador Apagado	11/2/2021	9:38:44 a. m.
+Generador Encendido	11/2/2021	9:38:45 a. m.
+Generador Apagado	11/2/2021	9:38:46 a. m.
+Generador Encendido	11/2/2021	9:38:47 a. m.
+Generador Apagado	11/2/2021	9:38:48 a. m.
+Generador Encendido	11/2/2021	9:52:23 a. m.
+Generador Apagado	11/2/2021	9:52:23 a. m.
+Generador Encendido	11/2/2021	9:52:24 a. m.
+Generador Apagado	11/2/2021	9:52:24 a. m.
+Generador Encendido	11/2/2021	9:52:45 a. m.
+Generador Apagado	11/2/2021	9:52:45 a. m.
+Generador Encendido	11/2/2021	9:52:46 a. m.
+Generador Apagado	11/2/2021	9:52:46 a. m.
+Generador Encendido	11/2/2021	9:52:47 a. m.
+Generador Apagado	11/2/2021	9:52:48 a. m.
+Falla T001 Activada	11/2/2021	10:06:22 a. m.
+Falla T001 Desactivada	11/2/2021	10:06:22 a. m.
