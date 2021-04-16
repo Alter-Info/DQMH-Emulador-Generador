@@ -163,6 +163,7 @@ Generador Encendido	11/2/2021	9:52:47 a. m.
 Generador Apagado	11/2/2021	9:52:48 a. m.
 Falla T001 Activada	11/2/2021	10:06:22 a. m.
 Falla T001 Desactivada	11/2/2021	10:06:22 a. m.
+<<<<<<< HEAD
 Generador Encendido	16/4/2021	11:00:48 a. m.
 Generador Apagado	16/4/2021	11:11:59 a. m.
 Generador Encendido	16/4/2021	11:12:00 a. m.
@@ -247,3 +248,10 @@ Generador Encendido	16/4/2021	3:35:54 p. m.
 Generador Encendido	16/4/2021	3:37:44 p. m.
 Generador Encendido	16/4/2021	3:44:42 p. m.
 Generador Encendido	16/4/2021	3:57:41 p. m.
+=======
+Generador Encendido	15/4/2021	11:07:12 a. m.
+Generador Apagado	15/4/2021	11:07:43 a. m.
+Generador Encendido	15/4/2021	11:07:43 a. m.
+Generador Apagado	15/4/2021	11:07:45 a. m.
+Generador Encendido	15/4/2021	11:07:45 a. m.
+>>>>>>> 2210b1a4d79120612f66751d2d95fba4eb9b12b9
