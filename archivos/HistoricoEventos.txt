@@ -163,3 +163,8 @@ Generador Encendido	11/2/2021	9:52:47 a. m.
 Generador Apagado	11/2/2021	9:52:48 a. m.
 Falla T001 Activada	11/2/2021	10:06:22 a. m.
 Falla T001 Desactivada	11/2/2021	10:06:22 a. m.
+Generador Encendido	15/4/2021	11:07:12 a. m.
+Generador Apagado	15/4/2021	11:07:43 a. m.
+Generador Encendido	15/4/2021	11:07:43 a. m.
+Generador Apagado	15/4/2021	11:07:45 a. m.
+Generador Encendido	15/4/2021	11:07:45 a. m.
