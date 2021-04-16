@@ -163,3 +163,87 @@ Generador Encendido	11/2/2021	9:52:47 a. m.
 Generador Apagado	11/2/2021	9:52:48 a. m.
 Falla T001 Activada	11/2/2021	10:06:22 a. m.
 Falla T001 Desactivada	11/2/2021	10:06:22 a. m.
+Generador Encendido	16/4/2021	11:00:48 a. m.
+Generador Apagado	16/4/2021	11:11:59 a. m.
+Generador Encendido	16/4/2021	11:12:00 a. m.
+Generador Apagado	16/4/2021	12:19:59 p. m.
+Generador Encendido	16/4/2021	12:20:01 p. m.
+Generador Apagado	16/4/2021	12:21:00 p. m.
+Generador Encendido	16/4/2021	12:34:10 p. m.
+Generador Apagado	16/4/2021	12:34:11 p. m.
+Generador Encendido	16/4/2021	12:34:13 p. m.
+Generador Apagado	16/4/2021	12:42:17 p. m.
+Generador Encendido	16/4/2021	12:42:17 p. m.
+Generador Apagado	16/4/2021	12:42:18 p. m.
+Generador Encendido	16/4/2021	12:42:18 p. m.
+Generador Apagado	16/4/2021	12:42:18 p. m.
+Generador Encendido	16/4/2021	12:42:18 p. m.
+Generador Apagado	16/4/2021	12:42:19 p. m.
+Generador Encendido	16/4/2021	12:42:19 p. m.
+Generador Apagado	16/4/2021	12:42:19 p. m.
+Generador Encendido	16/4/2021	12:42:19 p. m.
+Generador Apagado	16/4/2021	12:42:19 p. m.
+Generador Encendido	16/4/2021	12:42:19 p. m.
+Generador Apagado	16/4/2021	12:42:19 p. m.
+Generador Encendido	16/4/2021	12:45:01 p. m.
+Generador Apagado	16/4/2021	12:45:02 p. m.
+Generador Encendido	16/4/2021	12:45:03 p. m.
+Generador Apagado	16/4/2021	12:45:12 p. m.
+Generador Encendido	16/4/2021	12:45:13 p. m.
+Generador Apagado	16/4/2021	1:11:48 p. m.
+Generador Encendido	16/4/2021	1:11:49 p. m.
+Generador Apagado	16/4/2021	1:13:36 p. m.
+Generador Encendido	16/4/2021	1:13:40 p. m.
+Generador Encendido	16/4/2021	3:16:29 p. m.
+Generador Apagado	16/4/2021	3:16:29 p. m.
+Generador Encendido	16/4/2021	3:16:30 p. m.
+Generador Apagado	16/4/2021	3:16:31 p. m.
+Generador Encendido	16/4/2021	3:16:32 p. m.
+Generador Apagado	16/4/2021	3:16:46 p. m.
+Generador Encendido	16/4/2021	3:16:47 p. m.
+Generador Apagado	16/4/2021	3:16:59 p. m.
+Generador Encendido	16/4/2021	3:17:00 p. m.
+Generador Apagado	16/4/2021	3:17:18 p. m.
+Generador Encendido	16/4/2021	3:17:21 p. m.
+Generador Encendido	16/4/2021	3:22:11 p. m.
+Generador Apagado	16/4/2021	3:22:13 p. m.
+Generador Encendido	16/4/2021	3:22:13 p. m.
+Generador Apagado	16/4/2021	3:22:21 p. m.
+Generador Encendido	16/4/2021	3:22:24 p. m.
+Generador Apagado	16/4/2021	3:22:25 p. m.
+Generador Encendido	16/4/2021	3:22:25 p. m.
+Generador Apagado	16/4/2021	3:26:20 p. m.
+Generador Encendido	16/4/2021	3:26:20 p. m.
+Generador Apagado	16/4/2021	3:26:21 p. m.
+Generador Encendido	16/4/2021	3:26:21 p. m.
+Generador Apagado	16/4/2021	3:28:07 p. m.
+Generador Encendido	16/4/2021	3:28:08 p. m.
+Generador Apagado	16/4/2021	3:28:09 p. m.
+Generador Encendido	16/4/2021	3:28:09 p. m.
+Generador Encendido	16/4/2021	3:28:56 p. m.
+Generador Apagado	16/4/2021	3:28:56 p. m.
+Generador Encendido	16/4/2021	3:29:31 p. m.
+Falla T002 Activada	16/4/2021	3:29:43 p. m.
+Falla T002 Desactivada	16/4/2021	3:29:43 p. m.
+Falla T002 Activada	16/4/2021	3:29:44 p. m.
+Falla T002 Desactivada	16/4/2021	3:29:44 p. m.
+Falla T001 Activada	16/4/2021	3:29:45 p. m.
+Falla T001 Desactivada	16/4/2021	3:29:45 p. m.
+Falla U1 Activada	16/4/2021	3:30:02 p. m.
+Falla U1 Desactivada	16/4/2021	3:30:02 p. m.
+Falla U1 Activada	16/4/2021	3:30:02 p. m.
+Falla U1 Desactivada	16/4/2021	3:30:02 p. m.
+Generador Encendido	16/4/2021	3:35:50 p. m.
+Generador Apagado	16/4/2021	3:35:50 p. m.
+Generador Encendido	16/4/2021	3:35:50 p. m.
+Generador Apagado	16/4/2021	3:35:50 p. m.
+Generador Encendido	16/4/2021	3:35:51 p. m.
+Generador Apagado	16/4/2021	3:35:52 p. m.
+Generador Encendido	16/4/2021	3:35:52 p. m.
+Generador Apagado	16/4/2021	3:35:53 p. m.
+Generador Encendido	16/4/2021	3:35:53 p. m.
+Generador Apagado	16/4/2021	3:35:53 p. m.
+Generador Encendido	16/4/2021	3:35:54 p. m.
+Generador Encendido	16/4/2021	3:37:44 p. m.
+Generador Encendido	16/4/2021	3:44:42 p. m.
+Generador Encendido	16/4/2021	3:57:41 p. m.
