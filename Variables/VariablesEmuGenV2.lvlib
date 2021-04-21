@@ -62,6 +62,16 @@
 		<Property Name="typedefPath1" Type="PathRel">../../TypeDefs/ClusterFallas.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$U]!!!!#!!A!!!!!!,!""!)1J'97RM93"5-$!S!!!11#%+2G&amp;M&lt;'%A6$!Q-1!!$E!B#%:B&lt;'RB)&amp;=U!!!/1#%)2G&amp;M&lt;'%A641!!!Z!)1B'97RM93"8-Q!!$E!B#%:B&lt;'RB)&amp;5T!!!/1#%)2G&amp;M&lt;'%A6T)!!!Z!)1B'97RM93"6-A!!$E!B#%:B&lt;'RB)&amp;=R!!!/1#%)2G&amp;M&lt;'%A64%!!%9!]1!!!!!!!!!"%5.M&gt;8.U:8*'97RM98-O9X2M!#R!5!!+!!!!!1!#!!-!"!!&amp;!!9!"Q!)!!E.1WRV=X2F=E:B&lt;'RB=Q!"!!I!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="Habilitar Debug" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">Habilitar Debug</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!#!!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="Lecturas del Modelo [cRIO - &gt; HMI]" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -75,5 +85,34 @@
 		<Property Name="typedefName1" Type="Str">ClusterEntradaGraficas.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../TypeDefs/ClusterEntradaGraficas.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$[^A!!!#!!A!!!!!!(!"&gt;!#A!26G^M&gt;'&amp;K:3"(:7ZF=G&amp;E&lt;X)!'5!+!".$&lt;X*S;76O&gt;'5A2W6O:8*B:'^S!"F!#A!35'^U:7ZD;7%A2W6O:8*B:'^S!!!&lt;1!I!&amp;%.P=H*J:7ZU:3"&amp;?'.J&gt;'&amp;D;@.O!!!:1!I!%F:P&lt;(2B;G5A:'5A1G&amp;U:8,N91!!&amp;5!+!!Z44U-A:'5A1G&amp;U:8,N91!!*%"1!!9!!!!"!!)!!Q!%!!511WRV=X2F=C"&amp;&lt;H2S972B=Q!!!1!'!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Mod Corriente Debug" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#!!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Mod T001 Debug" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">Mod T001 Debug</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#!!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Mod T002 Debug" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">Mod T002 Debug</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#!!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
