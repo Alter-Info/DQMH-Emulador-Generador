@@ -317,3 +317,13 @@ Falla U3 Desactivada	21/4/2021	1:32:40 p. m.
 Falla U4 Desactivada	21/4/2021	1:32:40 p. m.
 Falla W4 Desactivada	21/4/2021	1:32:41 p. m.
 Generador Encendido	21/4/2021	4:29:36 p. m.
+Generador Encendido	23/4/2021	9:54:33 a. m.
+Generador Apagado	23/4/2021	9:54:34 a. m.
+Generador Encendido	23/4/2021	9:54:34 a. m.
+Generador Apagado	23/4/2021	9:54:35 a. m.
+Generador Encendido	23/4/2021	9:54:35 a. m.
+Generador Apagado	23/4/2021	9:54:36 a. m.
+Modo Propulsión Activado	23/4/2021	9:54:37 a. m.
+Modo Propulsión Desactivado	23/4/2021	9:54:37 a. m.
+Línea de Carga Conectada	23/4/2021	9:54:37 a. m.
+Línea de Carga Desconectada	23/4/2021	9:54:38 a. m.
