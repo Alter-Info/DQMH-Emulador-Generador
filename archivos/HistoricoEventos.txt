@@ -591,3 +591,186 @@ Línea de Carga Desconectada	27/4/2021	10:01:40 a. m.
 Línea de Carga Conectada	27/4/2021	10:02:51 a. m.
 Generador Encendido	28/4/2021	9:26:28 a. m.
 Generador Encendido	29/4/2021	10:23:09 a. m.
+Generador Encendido	20/5/2021	9:28:08 a. m.
+Generador Apagado	20/5/2021	9:28:09 a. m.
+Generador Encendido	20/5/2021	9:52:20 a. m.
+Generador Apagado	20/5/2021	9:52:27 a. m.
+Generador Encendido	20/5/2021	9:52:28 a. m.
+Generador Apagado	20/5/2021	9:52:29 a. m.
+Generador Encendido	20/5/2021	9:56:33 a. m.
+Generador Apagado	20/5/2021	9:56:37 a. m.
+Generador Encendido	20/5/2021	9:58:58 a. m.
+Generador Apagado	20/5/2021	9:59:10 a. m.
+Generador Encendido	20/5/2021	10:02:24 a. m.
+Generador Apagado	20/5/2021	10:02:32 a. m.
+Generador Encendido	20/5/2021	10:04:44 a. m.
+Generador Apagado	20/5/2021	10:04:46 a. m.
+Generador Encendido	20/5/2021	10:04:49 a. m.
+Generador Apagado	20/5/2021	10:04:50 a. m.
+Generador Encendido	20/5/2021	10:05:03 a. m.
+Generador Apagado	20/5/2021	10:05:04 a. m.
+Generador Encendido	20/5/2021	10:05:05 a. m.
+Generador Apagado	20/5/2021	10:05:05 a. m.
+Generador Encendido	20/5/2021	10:05:06 a. m.
+Generador Apagado	20/5/2021	10:05:06 a. m.
+Generador Encendido	20/5/2021	10:06:59 a. m.
+Generador Apagado	20/5/2021	10:07:36 a. m.
+Generador Encendido	20/5/2021	10:07:48 a. m.
+Generador Apagado	20/5/2021	10:08:11 a. m.
+Generador Encendido	20/5/2021	10:08:23 a. m.
+Generador Apagado	20/5/2021	10:08:40 a. m.
+Generador Encendido	20/5/2021	10:18:51 a. m.
+Generador Apagado	20/5/2021	10:18:53 a. m.
+Generador Encendido	20/5/2021	10:21:24 a. m.
+Generador Apagado	20/5/2021	10:21:28 a. m.
+Generador Encendido	20/5/2021	10:21:29 a. m.
+Generador Apagado	20/5/2021	10:21:29 a. m.
+Generador Encendido	20/5/2021	10:21:29 a. m.
+Generador Apagado	20/5/2021	10:21:30 a. m.
+Generador Encendido	20/5/2021	10:21:30 a. m.
+Generador Apagado	20/5/2021	10:21:30 a. m.
+Generador Encendido	20/5/2021	10:21:30 a. m.
+Generador Apagado	20/5/2021	10:21:30 a. m.
+Generador Encendido	20/5/2021	10:21:31 a. m.
+Generador Apagado	20/5/2021	10:21:31 a. m.
+Generador Encendido	20/5/2021	10:21:32 a. m.
+Generador Apagado	20/5/2021	10:21:32 a. m.
+Generador Encendido	20/5/2021	10:21:33 a. m.
+Generador Apagado	20/5/2021	10:21:33 a. m.
+Generador Encendido	20/5/2021	10:23:40 a. m.
+Generador Apagado	20/5/2021	10:23:44 a. m.
+Generador Encendido	20/5/2021	10:26:14 a. m.
+Generador Apagado	20/5/2021	10:26:16 a. m.
+Generador Encendido	20/5/2021	10:28:24 a. m.
+Generador Apagado	20/5/2021	10:28:27 a. m.
+Generador Encendido	20/5/2021	10:28:27 a. m.
+Generador Apagado	20/5/2021	10:28:32 a. m.
+Generador Encendido	20/5/2021	10:31:05 a. m.
+Generador Apagado	20/5/2021	10:31:13 a. m.
+Generador Encendido	20/5/2021	10:32:55 a. m.
+Generador Apagado	20/5/2021	10:32:57 a. m.
+Generador Encendido	20/5/2021	10:37:09 a. m.
+Generador Apagado	20/5/2021	10:37:10 a. m.
+Generador Encendido	21/5/2021	1:51:47 p. m.
+Generador Apagado	21/5/2021	2:11:36 p. m.
+Generador Encendido	21/5/2021	2:11:37 p. m.
+Generador Apagado	21/5/2021	2:11:38 p. m.
+Generador Encendido	21/5/2021	3:03:35 p. m.
+Generador Apagado	21/5/2021	3:38:38 p. m.
+Generador Encendido	21/5/2021	3:49:48 p. m.
+Generador Apagado	21/5/2021	3:57:49 p. m.
+Generador Encendido	21/5/2021	3:57:50 p. m.
+Generador Apagado	21/5/2021	3:57:50 p. m.
+Generador Encendido	21/5/2021	4:03:40 p. m.
+Generador Apagado	21/5/2021	4:03:42 p. m.
+Generador Encendido	21/5/2021	4:03:43 p. m.
+Generador Apagado	21/5/2021	4:03:43 p. m.
+Generador Encendido	21/5/2021	4:03:47 p. m.
+Generador Apagado	21/5/2021	4:03:49 p. m.
+Generador Encendido	21/5/2021	4:03:50 p. m.
+Generador Apagado	21/5/2021	4:03:52 p. m.
+Generador Encendido	21/5/2021	4:03:53 p. m.
+Generador Apagado	21/5/2021	4:03:53 p. m.
+Generador Encendido	21/5/2021	4:04:22 p. m.
+Generador Apagado	21/5/2021	4:04:25 p. m.
+Modo Propulsión Activado	21/5/2021	4:04:27 p. m.
+Modo Propulsión Desactivado	21/5/2021	4:04:28 p. m.
+Línea de Carga Conectada	21/5/2021	4:04:28 p. m.
+Línea de Carga Desconectada	21/5/2021	4:04:29 p. m.
+Generador Encendido	21/5/2021	4:04:32 p. m.
+Generador Apagado	21/5/2021	4:04:33 p. m.
+Generador Encendido	21/5/2021	4:04:34 p. m.
+Generador Apagado	21/5/2021	4:04:34 p. m.
+Generador Encendido	21/5/2021	4:04:48 p. m.
+Generador Apagado	21/5/2021	4:04:49 p. m.
+Generador Encendido	21/5/2021	4:04:50 p. m.
+Generador Apagado	21/5/2021	4:04:51 p. m.
+Generador Encendido	21/5/2021	4:05:58 p. m.
+Generador Apagado	21/5/2021	4:06:02 p. m.
+Generador Encendido	24/5/2021	9:10:17 a. m.
+Generador Apagado	24/5/2021	9:13:30 a. m.
+Generador Encendido	28/5/2021	2:06:00 p. m.
+Generador Apagado	31/5/2021	11:50:44 a. m.
+Generador Encendido	31/5/2021	11:50:45 a. m.
+Generador Apagado	31/5/2021	11:50:48 a. m.
+Generador Encendido	31/5/2021	12:11:40 p. m.
+Generador Apagado	31/5/2021	12:17:42 p. m.
+Generador Encendido	31/5/2021	12:32:41 p. m.
+Generador Apagado	31/5/2021	1:55:13 p. m.
+Generador Encendido	31/5/2021	1:55:13 p. m.
+Línea de Carga Conectada	31/5/2021	2:04:00 p. m.
+Línea de Carga Desconectada	31/5/2021	2:05:16 p. m.
+Generador Apagado	31/5/2021	2:05:18 p. m.
+Generador Encendido	31/5/2021	2:06:00 p. m.
+Línea de Carga Conectada	31/5/2021	2:06:09 p. m.
+Línea de Carga Desconectada	31/5/2021	2:06:13 p. m.
+Línea de Carga Conectada	31/5/2021	2:06:14 p. m.
+Línea de Carga Desconectada	31/5/2021	2:06:23 p. m.
+Línea de Carga Conectada	31/5/2021	2:06:24 p. m.
+Línea de Carga Desconectada	31/5/2021	2:11:03 p. m.
+Generador Apagado	31/5/2021	2:11:04 p. m.
+Generador Encendido	31/5/2021	2:11:39 p. m.
+Línea de Carga Conectada	31/5/2021	2:13:42 p. m.
+Línea de Carga Desconectada	31/5/2021	2:14:26 p. m.
+Generador Apagado	31/5/2021	2:14:27 p. m.
+Generador Encendido	31/5/2021	2:14:49 p. m.
+Línea de Carga Conectada	31/5/2021	2:16:31 p. m.
+Línea de Carga Desconectada	31/5/2021	2:17:26 p. m.
+Generador Apagado	31/5/2021	2:17:27 p. m.
+Generador Encendido	31/5/2021	2:18:12 p. m.
+Línea de Carga Conectada	31/5/2021	2:18:13 p. m.
+Línea de Carga Desconectada	31/5/2021	2:20:58 p. m.
+Generador Apagado	31/5/2021	2:20:59 p. m.
+Generador Encendido	31/5/2021	2:23:51 p. m.
+Línea de Carga Conectada	31/5/2021	2:23:53 p. m.
+Línea de Carga Desconectada	31/5/2021	2:25:24 p. m.
+Generador Apagado	31/5/2021	2:25:25 p. m.
+Generador Encendido	31/5/2021	2:27:58 p. m.
+Línea de Carga Conectada	31/5/2021	2:28:00 p. m.
+Generador Encendido	31/5/2021	2:39:41 p. m.
+Generador Apagado	31/5/2021	2:39:42 p. m.
+Generador Encendido	31/5/2021	2:39:43 p. m.
+Línea de Carga Conectada	31/5/2021	2:39:49 p. m.
+Generador Apagado	31/5/2021	2:40:59 p. m.
+Línea de Carga Desconectada	31/5/2021	2:41:01 p. m.
+Línea de Carga Conectada	31/5/2021	2:41:04 p. m.
+Línea de Carga Desconectada	31/5/2021	2:41:05 p. m.
+Generador Encendido	31/5/2021	2:42:05 p. m.
+Línea de Carga Conectada	31/5/2021	2:42:08 p. m.
+Línea de Carga Desconectada	31/5/2021	2:43:34 p. m.
+Generador Apagado	31/5/2021	2:43:34 p. m.
+Generador Encendido	31/5/2021	2:44:31 p. m.
+Línea de Carga Conectada	31/5/2021	2:44:32 p. m.
+Línea de Carga Desconectada	31/5/2021	2:45:43 p. m.
+Generador Apagado	31/5/2021	2:45:43 p. m.
+Generador Encendido	31/5/2021	2:46:29 p. m.
+Línea de Carga Conectada	31/5/2021	2:48:06 p. m.
+Línea de Carga Desconectada	31/5/2021	2:48:47 p. m.
+Generador Apagado	31/5/2021	2:48:47 p. m.
+Generador Encendido	31/5/2021	2:49:33 p. m.
+Línea de Carga Conectada	31/5/2021	2:49:34 p. m.
+Línea de Carga Desconectada	31/5/2021	2:53:30 p. m.
+Generador Apagado	31/5/2021	2:53:30 p. m.
+Generador Encendido	10/6/2021	10:32:27 a. m.
+Generador Apagado	10/6/2021	10:45:06 a. m.
+Generador Encendido	10/6/2021	10:47:29 a. m.
+Falla U1 Activada	10/6/2021	10:53:50 a. m.
+Falla U1 Desactivada	10/6/2021	10:53:54 a. m.
+Generador Apagado	10/6/2021	11:11:40 a. m.
+Modo Propulsión Activado	10/6/2021	11:19:00 a. m.
+Generador Encendido	10/6/2021	3:37:17 p. m.
+Modo Propulsión Desactivado	10/6/2021	3:41:21 p. m.
+Generador Apagado	10/6/2021	3:41:49 p. m.
+Generador Encendido	10/6/2021	3:44:34 p. m.
+Generador Apagado	10/6/2021	3:48:01 p. m.
+Generador Encendido	21/6/2021	11:18:20 a. m.
+Generador Apagado	21/6/2021	11:26:59 a. m.
+Generador Encendido	21/6/2021	11:40:23 a. m.
+Generador Apagado	21/6/2021	11:56:18 a. m.
+Generador Encendido	21/7/2021	3:01:40 p. m.
+Generador Apagado	21/7/2021	3:03:34 p. m.
+Generador Encendido	21/7/2021	3:06:01 p. m.
+Generador Encendido	21/7/2021	3:12:07 p. m.
+Línea de Carga Conectada	21/7/2021	3:51:41 p. m.
+Línea de Carga Desconectada	21/7/2021	4:02:29 p. m.
+Generador Apagado	21/7/2021	4:02:31 p. m.
