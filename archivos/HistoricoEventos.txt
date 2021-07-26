@@ -774,3 +774,41 @@ Generador Encendido	21/7/2021	3:12:07 p. m.
 Línea de Carga Conectada	21/7/2021	3:51:41 p. m.
 Línea de Carga Desconectada	21/7/2021	4:02:29 p. m.
 Generador Apagado	21/7/2021	4:02:31 p. m.
+Generador Encendido	23/7/2021	10:01:23 a. m.
+Línea de Carga Conectada	23/7/2021	10:08:22 a. m.
+Línea de Carga Desconectada	23/7/2021	10:11:20 a. m.
+Línea de Carga Conectada	23/7/2021	10:11:24 a. m.
+Falla U1 Activada	23/7/2021	10:14:35 a. m.
+Falla U1 Desactivada	23/7/2021	10:14:47 a. m.
+Falla U1 Activada	23/7/2021	10:14:50 a. m.
+Falla U1 Desactivada	23/7/2021	10:14:53 a. m.
+Falla U1 Activada	23/7/2021	10:14:56 a. m.
+Falla U1 Desactivada	23/7/2021	10:15:00 a. m.
+Línea de Carga Desconectada	23/7/2021	10:32:03 a. m.
+Generador Apagado	23/7/2021	10:32:16 a. m.
+Generador Encendido	23/7/2021	10:44:57 a. m.
+Línea de Carga Conectada	23/7/2021	10:46:06 a. m.
+Falla U1 Activada	23/7/2021	10:50:38 a. m.
+Falla U1 Desactivada	23/7/2021	10:50:53 a. m.
+Falla W1 Activada	23/7/2021	10:51:11 a. m.
+Falla W1 Desactivada	23/7/2021	10:51:12 a. m.
+Falla U2 Activada	23/7/2021	10:51:13 a. m.
+Falla U2 Desactivada	23/7/2021	10:51:15 a. m.
+Falla W2 Activada	23/7/2021	10:51:16 a. m.
+Falla W2 Desactivada	23/7/2021	10:51:17 a. m.
+Falla U3 Activada	23/7/2021	10:51:35 a. m.
+Falla U3 Desactivada	23/7/2021	10:51:36 a. m.
+Falla W3 Activada	23/7/2021	10:51:37 a. m.
+Falla W3 Desactivada	23/7/2021	10:51:38 a. m.
+Falla U4 Activada	23/7/2021	10:51:39 a. m.
+Falla U4 Desactivada	23/7/2021	10:51:40 a. m.
+Falla W4 Activada	23/7/2021	10:51:41 a. m.
+Falla W4 Desactivada	23/7/2021	10:51:43 a. m.
+Falla U1 Activada	23/7/2021	10:58:17 a. m.
+Falla U1 Desactivada	23/7/2021	10:58:25 a. m.
+Falla U1 Activada	23/7/2021	11:04:24 a. m.
+Falla U1 Desactivada	23/7/2021	11:04:24 a. m.
+Falla U1 Activada	23/7/2021	11:04:25 a. m.
+Falla U1 Desactivada	23/7/2021	11:04:32 a. m.
+Línea de Carga Desconectada	23/7/2021	11:11:29 a. m.
+Línea de Carga Conectada	23/7/2021	11:11:38 a. m.
