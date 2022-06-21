@@ -1,29 +1,31 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="20008000">
 	<Property Name="varPersistentID:{092687B9-C65F-4B05-AF8E-BB483519A496}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla U3</Property>
-	<Property Name="varPersistentID:{09315B78-3C88-4E3A-A0E5-6722001B267A}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Booleans cRIO -&gt; HMI</Property>
-	<Property Name="varPersistentID:{09892C11-072C-484C-8002-847B7EF7BB0C}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Booleans HMI -&gt; cRIO</Property>
 	<Property Name="varPersistentID:{123FACF9-1E98-4223-912F-2B1528A0405B}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Mod T001 Debug</Property>
+	<Property Name="varPersistentID:{1D8F736A-C635-4EF7-899E-5BE83B268783}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Corriente Propulsion</Property>
+	<Property Name="varPersistentID:{26BA08EB-CB90-46CC-BDB6-D561D4AF90E7}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Voltaje Bateria</Property>
 	<Property Name="varPersistentID:{2B0EA94C-17B5-4C73-B218-55DA0FF096B5}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Modo Propulsion</Property>
+	<Property Name="varPersistentID:{2B634AC8-AB49-4D7A-B4E4-70218AC2D831}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Corriente Excitacion</Property>
+	<Property Name="varPersistentID:{2D7B592A-829B-4B32-8A8C-EF26E5D5228E}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/SOC</Property>
+	<Property Name="varPersistentID:{2FDA66E1-B4A6-43E0-AB17-8D5173F5C6C0}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/SOC Inicial</Property>
 	<Property Name="varPersistentID:{3074B642-6203-4A6E-AB7A-EF9248796E39}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla W4</Property>
 	<Property Name="varPersistentID:{31F1AC0F-7D13-407E-9E78-F52DF73AAF65}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla W2</Property>
 	<Property Name="varPersistentID:{36AE57FC-9030-4C55-8F38-3D266484744F}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla T002</Property>
 	<Property Name="varPersistentID:{40F056AF-6209-45EC-9BD6-A37D7136903F}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla W1</Property>
+	<Property Name="varPersistentID:{454AEAA6-FEB1-4C23-BBC7-79B7177F07C8}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/T_Bat_HMI</Property>
 	<Property Name="varPersistentID:{4C9CED05-366E-4671-A002-A0CA26E8B82A}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla W3</Property>
-	<Property Name="varPersistentID:{560B539D-741E-49CA-B4B1-B4EB181E7825}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Lecturas del Modelo [cRIO - &gt; HMI]</Property>
 	<Property Name="varPersistentID:{56CB2094-C8C6-40F3-8D1A-687CB63323D7}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/BUS DC ON</Property>
 	<Property Name="varPersistentID:{6013262A-E5A1-4AAE-BFBF-4459B18E86C4}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Mod T002 Debug</Property>
 	<Property Name="varPersistentID:{6B8E6C43-9EFF-407B-8437-91D67D7F88C6}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla T001</Property>
-	<Property Name="varPersistentID:{6BD44A42-DFDD-4F12-BE8D-94C9DB501092}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Fallas Generadas [HMI -&gt; cRIO]</Property>
 	<Property Name="varPersistentID:{6C5CB3BA-1F01-4770-8733-69B9EDCD37E8}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla U1</Property>
 	<Property Name="varPersistentID:{6EF8D6F4-AFBD-463D-9E8A-DE44FD82746B}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Mod Corriente Debug</Property>
 	<Property Name="varPersistentID:{854934B9-A17B-4341-AA1E-7717C6D1862F}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/ON_OFF</Property>
-	<Property Name="varPersistentID:{8E72B61D-8583-43FA-A4A7-10BFBA7A817B}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Doubles HMI -&gt; cRIO</Property>
+	<Property Name="varPersistentID:{96BCFE49-66FB-4AE4-A612-C13F3E5D067A}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Corriente Generador</Property>
 	<Property Name="varPersistentID:{A56C79E5-DBBA-48C2-B414-ED70064AF91C}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Habilitar Debug</Property>
 	<Property Name="varPersistentID:{B5E5F822-CD19-46B7-B1FE-DA9B5806930C}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla U4</Property>
 	<Property Name="varPersistentID:{D5126FF5-400E-41AA-8483-CCCE3C34D5D4}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Conexion a Linea de Carga</Property>
 	<Property Name="varPersistentID:{D85210B9-1143-495B-979C-A42D6A70A3D4}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Falla U2</Property>
-	<Property Name="varPersistentID:{F8B27DA9-313E-494C-B7EB-A0DAF5755237}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Doubles cRIO -&gt; HMI</Property>
+	<Property Name="varPersistentID:{FB731C69-E1FB-432A-A4C8-9E1F810FF49A}" Type="Ref">/EmuGenV2/VariablesEmuGenV2.lvlib/Voltaje Generador</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -1135,6 +1137,7 @@ AddOutputFilter chunkFilter
 						<Item Name="FxpSim.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/FXPMathLib/sim/FxpSim.dll"/>
 						<Item Name="niFpgaDdsAccum.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/siggen/SquareWave/templates/niFpgaDdsAccum.vi"/>
 						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
+						<Item Name="niFpgaDdsAccum.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/siggen/SquareWave/templates/niFpgaDdsAccum.vi"/>
 					</Item>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
@@ -1202,7 +1205,6 @@ AddOutputFilter chunkFilter
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="ClusterFallas.ctl" Type="VI" URL="../TypeDefs/ClusterFallas.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Real-Time Application" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -1223,7 +1225,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CD3A71DC-CA98-432E-BD84-35076BA24C94}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
